@@ -1,2 +1,2 @@
 # WPFCaculcator
-Learn by doing project C# dot net.
+Basic GUI Calculator written in WPF. this is my first day of learning WPF so there can be mistakes in coding styles.
